@@ -1,24 +1,60 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import {
+  createBrowserRouter,
+  RouterProvider,
+} from "react-router-dom";
+import "./index.css";
+
+import Option from './views/Option'
+import ViewerChoice from './views/ViewerChoice'
+import Streamer from './views/Streamer'
+import ViewerResult from "./views/ViewerResult";
+import QuestionOne from "./components/QuestionOne";
+import QuestionThree from "./components/QuestionThree";
+import QuestionTwo from "./components/QuestionTwo";
+import QuestionFour from "./components/QuestionFour";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+  const router = createBrowserRouter([
+    {
+      path: "/",
+      element: <Option/>,
+    },
+    {
+      path: "/SetUp/Welcome",
+      element: <ViewerChoice/>,
+    },
+    {
+      path: "/SetUp/QuestionOne",
+      element: <QuestionOne/>,
+    },
+    {
+      path: "/SetUp/QuestionTwo",
+      element: <QuestionTwo/>,
+    },
+    {
+      path: "/SetUp/QuestionThree",
+      element: <QuestionThree/>,
+    },
+    {
+      path: "/SetUp/QuestionFour/:cat1/:cat2/:cat3",
+      element: <QuestionFour/>,
+    },
+    {
+      path: "/StreamerX",
+      element: <Streamer/>,
+    },
+    {
+      path: "/Recommendations/:cat1/:cat2/:cat3/:tag1/:tag2/:tag3/:tag4/:tag5",
+      element: <ViewerResult/>,
+    },
+  ]);
+  
+  ReactDOM.createRoot(document.getElementById("root")).render(
+    <React.StrictMode>
+      <RouterProvider router={router} />
+    </React.StrictMode>
   );
 }
 

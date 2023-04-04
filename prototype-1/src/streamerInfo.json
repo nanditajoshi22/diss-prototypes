@@ -1,0 +1,26 @@
+{
+    "name": "StreamerX",
+    "background": "https://i.ytimg.com/vi/1Q8fG0TtVAY/maxresdefault.jpg",
+    "icon": "q",
+    "followers": "13k",
+    "description": "This is StreamerX's description - this will inform viewers what this streamer's content was like.",
+    "achievements": [
+        "Streamer of the week",
+        "Streaming Streak: 7",
+        "12+ hours this week"
+    ],
+    "categories" : [
+        "Gaming",
+        "Movies & Shows"
+    ],
+    "streamerTags": [
+        "Single Player",
+        "Reviews",
+        "First Playthrough"
+    ],
+    "viewerTags": [
+        "Reactions",
+        "First Playthrough",
+        "Reviews"
+    ]
+}

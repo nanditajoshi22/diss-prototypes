@@ -1,0 +1,1027 @@
+{
+    "streams": [
+        {
+            "name": "Amari",
+            "thumbnail": 0,
+            "icon": 0,
+            "title": "Gossip On Set",
+            "viewership": "12",
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Trending",
+            "tags": [
+                "Most Recent",
+                "Winner",
+                "Tea Time"
+            ]
+        },
+        {
+            "name": "August",
+            "thumbnail": 0,
+            "icon": 0,
+            "title": "Variety Time",
+            "viewership": "1.2k",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Gaming",
+            "tags": [
+                "FPS",
+                "Valorant",
+                "Fun"
+            ]
+        },
+        {
+            "name": "Anderson",
+            "thumbnail": 0,
+            "icon": 0,
+            "title": "Learn Your Skin Type",
+            "viewership": "1",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Fashion & Beauty",
+            "tags": [
+                "Skincare",
+                "AMA",
+                "Engagers"
+            ]
+        },
+        {
+            "name": "Bailey",
+            "thumbnail": 0,
+            "icon": 0,
+            "title": "What is going on?!",
+            "viewership": "56",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "News",
+            "tags": [
+                "Politics",
+                "Engagers",
+                "Chaos"
+            ]
+        },
+        {
+            "name": "Bao",
+            "thumbnail": 0,
+            "icon": 0,
+            "title": "Time To Review MCU",
+            "viewership": "123",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Movies & Shows",
+            "tags": [
+                "Review",
+                "Marvel",
+                "New"
+            ]
+        },
+        {
+            "name": "Brett",
+            "thumbnail": 0,
+            "icon": 0,
+            "title": "Decimals",
+            "viewership": "98",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Learning",
+            "tags": [
+                "Maths",
+                "Juniors",
+                "Engagers"
+            ]
+        },
+        {
+            "name": "Cleo",
+            "thumbnail": 0,
+            "icon": 0,
+            "title": "TODAY'S QUALIFIER",
+            "viewership": "77",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Sports",
+            "tags": [
+                "Formula 1",
+                "Shocking",
+                "Reaction"
+            ]
+        },
+        {
+            "name": "Cameron",
+            "thumbnail": 0,
+            "icon": 0,
+            "title": "Midnights",
+            "viewership": "1.9k",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Music",
+            "tags": [
+                "Pop",
+                "Reaction",
+                "New"
+            ]
+        },
+        {
+            "name": "Cooper",
+            "thumbnail": 1,
+            "icon": 1,
+            "title": "What Happened?",
+            "viewership": "200k",
+            
+            "achievements": [],
+            "category" : "Trending",
+            "tags": [
+                "Most Viewed",
+                "Twin Peaks",
+                "Truth"
+            ]
+        },
+        {
+            "name": "Dakota",
+            "thumbnail": 1,
+            "icon": 1,
+            "title": "VALO = SUBS!",
+            "viewership": "420",
+            
+            "achievements": [],
+            "category" : "Gaming",
+            "tags": [
+                "Subathon",
+                "FPS",
+                "Multi-Player"
+            ]
+        },
+        {
+            "name": "Drew",
+            "thumbnail": 1,
+            "icon": 1,
+            "title": "Best Hairstylist 2",
+            "viewership": "69",
+            
+            "achievements": [],
+            "category" : "Fashion & Beauty",
+            "tags": [
+                "Competition",
+                "Hair",
+                "Lurkers"
+            ]
+        },
+        {
+            "name": "Elisha",
+            "thumbnail": 1,
+            "icon": 1,
+            "title": "Elon Musk Did What?",
+            "viewership": "15",
+            
+            "achievements": [],
+            "category" : "News",
+            "tags": [
+                "Tech",
+                "Chaos",
+                "Multi-taskers"
+            ]
+        },
+        {
+            "name": "Ellery",
+            "thumbnail": 1,
+            "icon": 1,
+            "title": "A24 Watch Party",
+            "viewership": "12",
+            
+            "achievements": [],
+            "category" : "Movies & Shows",
+            "tags": [
+                "A24",
+                "Reaction",
+                "Cozy"
+            ]
+        },
+        {
+            "name": "Frances",
+            "thumbnail": 1,
+            "icon": 1,
+            "title": "Sporcle Quizzes",
+            "viewership": "14",
+            
+            "achievements": [],
+            "category" : "Learning",
+            "tags": [
+                "History",
+                "Fun",
+                "Lurkers"
+            ]
+        },
+        {
+            "name": "Forest",
+            "thumbnail": 1,
+            "icon": 1,
+            "title": "This Week In Football",
+            "viewership": "7",
+            
+            "achievements": [],
+            "category" : "Sports",
+            "tags": [
+                "Football",
+                "Discussion",
+                "Fixtures"
+            ]
+        },
+        {
+            "name": "Gabriel",
+            "thumbnail": 1,
+            "icon": 1,
+            "title": "David Bowie",
+            "viewership": "22",
+            
+            "achievements": [],
+            "category" : "Music",
+            "tags": [
+                "Lurkers",
+                "Ranking",
+                "Chaos"
+            ]
+        },
+        {
+            "name": "Garnet",
+            "thumbnail": 0,
+            "icon": 2,
+            "title": "Multiversus With YOU!",
+            "viewership": "13",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Trending",
+            "tags": [
+                "Most Recent",
+                "Engagers",
+                "Collab"
+            ]
+        },
+        {
+            "name": "Hero",
+            "thumbnail": 0,
+            "icon": 2,
+            "title": "It Takes Two",
+            "viewership": "30",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Gaming",
+            "tags": [
+                "Multi-Player",
+                "Fun",
+                "New"
+            ]
+        },
+        {
+            "name": "Hayes",
+            "thumbnail": 0,
+            "icon": 2,
+            "title": "Halloween Looks",
+            "viewership": "400",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Fashion & Beauty",
+            "tags": [
+                "Scary",
+                "Make-up",
+                "Engagers"
+            ]
+        },
+        {
+            "name": "Ines",
+            "thumbnail": 0,
+            "icon": 2,
+            "title": "The Rumours From Ines!",
+            "viewership": "4k",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "News",
+            "tags": [
+                "World",
+                "Multi-taskers",
+                "Pop Culture"
+            ]
+        },
+        {
+            "name": "Indiana",
+            "thumbnail": 0,
+            "icon": 2,
+            "title": "Spielberg Ranking",
+            "viewership": "25k",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Movies & Shows",
+            "tags": [
+                "Ranking",
+                "Rewatch",
+                "Engagers"
+            ]
+        },
+        {
+            "name": "Juno",
+            "thumbnail": 0,
+            "icon": 2,
+            "title": "Geoguesser",
+            "viewership": "61",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Learning",
+            "tags": [
+                "Geography",
+                "Multi-Player",
+                "Chill"
+            ]
+        },
+        {
+            "name": "Jamie",
+            "thumbnail": 0,
+            "icon": 2,
+            "title": "F1 Fantasy League",
+            "viewership": "4.9k",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Sports",
+            "tags": [
+                "Formula 1",
+                "Fantasy",
+                "Predictions"
+            ]
+        },
+        {
+            "name": "Karmen",
+            "thumbnail": 0,
+            "icon": 2,
+            "title": "Tyler, The Creator",
+            "viewership": "7k",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Music",
+            "tags": [
+                "Hip-Hop",
+                "Chill",
+                "Multi-taskers"
+            ]
+        },
+        {
+            "name": "Aidan",
+            "thumbnail": 1,
+            "icon": 3,
+            "title": "24 Hour Subathon",
+            "viewership": "10k",
+            
+            "achievements": [],
+            "category" : "Trending",
+            "tags": [
+                "Most Popular",
+                "Lurkers",
+                "FPS"
+            ]
+        },
+        {
+            "name": "Ben",
+            "thumbnail": 1,
+            "icon": 3,
+            "title": "Breath Of The Wild",
+            "viewership": "999",
+            
+            "achievements": [],
+            "category" : "Gaming",
+            "tags": [
+                "Single Player",
+                "Lurkers",
+                "Cozy"
+            ]
+        },
+        {
+            "name": "Kit",
+            "thumbnail": 1,
+            "icon": 3,
+            "title": "Celebrity Make-up",
+            "viewership": "452",
+            
+            "achievements": [],
+            "category" : "Fashion & Beauty",
+            "tags": [
+                "Make-up",
+                "Ranking",
+                "Multi-taskers"
+            ]
+        },
+        {
+            "name": "Leslie",
+            "thumbnail": 1,
+            "icon": 3,
+            "title": "AI IS TAKING OVER",
+            "viewership": "981",
+            
+            "achievements": [],
+            "category" : "News",
+            "tags": [
+                "Tech",
+                "Scary",
+                "Engagers"
+            ]
+        },
+        {
+            "name": "Loren",
+            "thumbnail": 1,
+            "icon": 3,
+            "title": "Rewatching New Girl",
+            "viewership": "839",
+            
+            "achievements": [],
+            "category" : "Movies & Shows",
+            "tags": [
+                "Reaction",
+                "Cozy",
+                "Lurkers"
+            ]
+        },
+        {
+            "name": "Mackenzie",
+            "thumbnail": 1,
+            "icon": 3,
+            "title": "POP QUIZ DAY!",
+            "viewership": "629",
+            
+            "achievements": [],
+            "category" : "Learning",
+            "tags": [
+                "Maths",
+                "English",
+                "Engagers"
+            ]
+        },
+        {
+            "name": "Mickey",
+            "thumbnail": 1,
+            "icon": 3,
+            "title": "IPL REACTIONS",
+            "viewership": "6.9k",
+            
+            "achievements": [],
+            "category" : "Sports",
+            "tags": [
+                "Cricket",
+                "IPL",
+                "Lurkers"
+            ]
+        },
+        {
+            "name": "Neo",
+            "thumbnail": 1,
+            "icon": 3,
+            "title": "RIHANNA'S BACK?!",
+            "viewership": "100k",
+            
+            "achievements": [],
+            "category" : "Music",
+            "tags": [
+                "R&B",
+                "Discussion",
+                "Chaos"
+            ]
+        },
+        {
+            "name": "Orion",
+            "thumbnail": 0,
+            "icon": 4,
+            "title": "Charity Stream",
+            "viewership": "1.7k",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Trending",
+            "tags": [
+                "Most Popular",
+                "GIVE!",
+                "Engagers"
+            ]
+        },
+        {
+            "name": "Onyx",
+            "thumbnail": 0,
+            "icon": 4,
+            "title": "OVERWATCH!!!!!",
+            "viewership": "0",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Gaming",
+            "tags": [
+                "FPS",
+                "Fast-paced",
+                "Collab"
+            ]
+        },
+        {
+            "name": "Pascal",
+            "thumbnail": 0,
+            "icon": 4,
+            "title": "YOUR Hairstyles",
+            "viewership": "4.2k",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Fashion & Beauty",
+            "tags": [
+                "Hair",
+                "Engagers",
+                "Chaos"
+            ]
+        },
+        {
+            "name": "Peyton",
+            "thumbnail": 0,
+            "icon": 4,
+            "title": "WW3?!",
+            "viewership": "78",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "News",
+            "tags": [
+                "Poltics",
+                "Scary",
+                "Chaos"
+            ]
+        },
+        {
+            "name": "Nandita",
+            "thumbnail": 0,
+            "icon": 4,
+            "title": "Oscars Discussion",
+            "viewership": "703",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Movies & Shows",
+            "tags": [
+                "Reaction",
+                "Award Season",
+                "Chaos"
+            ]
+        },
+        {
+            "name": "Quinn",
+            "thumbnail": 0,
+            "icon": 4,
+            "title": "Analysis of Jane Eyre",
+            "viewership": "204",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Learning",
+            "tags": [
+                "English",
+                "Literature",
+                "Multi-taskers"
+            ]
+        },
+        {
+            "name": "Quincy",
+            "thumbnail": 0,
+            "icon": 4,
+            "title": "Gotta go FAST!",
+            "viewership": "888",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Sports",
+            "tags": [
+                "Formula 1",
+                "Chill",
+                "Multi-Taskers"
+            ]
+        },
+        {
+            "name": "Reed",
+            "thumbnail": 0,
+            "icon": 4,
+            "title": "Playing Your Requests",
+            "viewership": "2",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Music",
+            "tags": [
+                "Pop",
+                "Performance",
+                "Engagers"
+            ]
+        },
+        {
+            "name": "Rio",
+            "thumbnail": 1,
+            "icon": 5,
+            "title": "Sleeping",
+            "viewership": "4",
+            
+            "achievements": [],
+            "category" : "Trending",
+            "tags": [
+                "Most Recent",
+                "Sleep",
+                "ZZZ"
+            ]
+        },
+        {
+            "name": "Skye",
+            "thumbnail": 1,
+            "icon": 5,
+            "title": "SUPER Auto Pets",
+            "viewership": "257",
+            
+            "achievements": [],
+            "category" : "Gaming",
+            "tags": [
+                "Single-Player",
+                "Engagers",
+                "Chill"
+            ]
+        },
+        {
+            "name": "Thea",
+            "thumbnail": 1,
+            "icon": 5,
+            "title": "NEXT IN FASHION!!",
+            "viewership": "64",
+            
+            "achievements": [],
+            "category" : "Fashion & Beauty",
+            "tags": [
+                "Engagers",
+                "Outfits",
+                "Fun"
+            ]
+        },
+        {
+            "name": "Tove",
+            "thumbnail": 1,
+            "icon": 5,
+            "title": "Conspiracy Theory Hour",
+            "viewership": "24",
+            
+            "achievements": [],
+            "category" : "News",
+            "tags": [
+                "Politics",
+                "Engagers",
+                "Fact Check"
+            ]
+        },
+        {
+            "name": "Vega",
+            "thumbnail": 1,
+            "icon": 5,
+            "title": "Nickelodeon Shows",
+            "viewership": "259",
+            
+            "achievements": [],
+            "category" : "Movies & Shows",
+            "tags": [
+                "Ranking",
+                "Nostalgia",
+                "Engagers"
+            ]
+        },
+        {
+            "name": "Valerie",
+            "thumbnail": 1,
+            "icon": 5,
+            "title": "Humanities Hour",
+            "viewership": "592",
+            
+            "achievements": [],
+            "category" : "Learning",
+            "tags": [
+                "History",
+                "Geography",
+                "Engagers"
+            ]
+        },
+        {
+            "name": "Vesper",
+            "thumbnail": 1,
+            "icon": 5,
+            "title": "Track Events",
+            "viewership": "77",
+            
+            "achievements": [],
+            "category" : "Sports",
+            "tags": [
+                "Running",
+                "Competition",
+                "Lurkers"
+            ]
+        },
+        {
+            "name": "Wyatt",
+            "thumbnail": 1,
+            "icon": 5,
+            "title": "Freestyling",
+            "viewership": "11",
+            
+            "achievements": [],
+            "category" : "Music",
+            "tags": [
+                "Rap",
+                "New",
+                "Multi-taskers"
+            ]
+        },
+        {
+            "name": "Whitney",
+            "thumbnail": 0,
+            "icon": 0,
+            "title": "Cooking Pizza",
+            "viewership": "210",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Trending",
+            "tags": [
+                "Most Popular",
+                "Dishes",
+                "Lurkers"
+            ]
+        },
+        {
+            "name": "Waverly",
+            "thumbnail": 0,
+            "icon": 1,
+            "title": "MARIO SPEED TIME",
+            "viewership": "450",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Gaming",
+            "tags": [
+                "Speedrun",
+                "Sub-30mins",
+                "FAST"
+            ]
+        },
+        {
+            "name": "Yael",
+            "thumbnail": 0,
+            "icon": 2,
+            "title": "My ASOS Spring Haul",
+            "viewership": "451",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Fashion & Beauty",
+            "tags": [
+                "Outfits",
+                "Lurkers",
+                "New"
+            ]
+        },
+        {
+            "name": "Zion",
+            "thumbnail": 0,
+            "icon": 3,
+            "title": "Celebrity Gossip",
+            "viewership": "0",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "News",
+            "tags": [
+                "Rumours",
+                "Gossip",
+                "Multi-taskers"
+            ]
+        },
+        {
+            "name": "Sol",
+            "thumbnail": 0,
+            "icon": 4,
+            "title": "David Lynch Time!",
+            "viewership": "1.4k",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Movies & Shows",
+            "tags": [
+                "Review",
+                "Ranking",
+                "Multi-taskers"
+            ]
+        },
+        {
+            "name": "Zoe",
+            "thumbnail": 0,
+            "icon": 5,
+            "title": "Differential Equations",
+            "viewership": 5,
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Learning",
+            "tags": [
+                "Maths",
+                "Seniors",
+                "Hard"
+            ]
+        },
+        {
+            "name": "Zane",
+            "thumbnail": 0,
+            "icon": 0,
+            "title": "ZOOOOOOOOM...",
+            "viewership": "3k",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Sports",
+            "tags": [
+                "Formula 1",
+                "Reaction",
+                "Ranking"
+            ]
+        },
+        {
+            "name": "Joe",
+            "thumbnail": 0,
+            "icon": 1,
+            "title": "Country Roads...",
+            "viewership": "7k",
+            
+            "achievements": [
+                "Streamer of the week"
+            ],
+            "category" : "Music",
+            "tags": [
+                "Country",
+                "Pop",
+                "Collab"
+            ]
+        },
+        {
+            "name": "Paterson",
+            "thumbnail": 1,
+            "icon": 2,
+            "title": "Competition Time",
+            "viewership": "2k",
+            
+            "achievements": [],
+            "category" : "Trending",
+            "tags": [
+                "Most Recent",
+                "48hrs",
+                "Elimination"
+            ]
+        },
+        {
+            "name": "Adam",
+            "thumbnail": 1,
+            "icon": 3,
+            "title": "Spider-Man",
+            "viewership": "2.9k",
+            
+            "achievements": [],
+            "category" : "Gaming",
+            "tags": [
+                "First Playthrough",
+                "Complete",
+                "Fun"
+            ]
+        },
+        {
+            "name": "Betty",
+            "thumbnail": 1,
+            "icon": 4,
+            "title": "Every Day Looks",
+            "viewership": "67k",
+            
+            "achievements": [],
+            "category" : "Fashion & Beauty",
+            "tags": [
+                "Make-up",
+                "Engagers",
+                "Creative"
+            ]
+        },
+        {
+            "name": "Taylor",
+            "thumbnail": 1,
+            "icon": 5,
+            "title": "Warm Earth = ?",
+            "viewership": "98k",
+            
+            "achievements": [],
+            "category" : "News",
+            "tags": [
+                "World",
+                "Environment",
+                "Lurkers"
+            ]
+        },
+        {
+            "name": "Blake",
+            "thumbnail": 1,
+            "icon": 0,
+            "title": "Murder Mystery 2",
+            "viewership": "420k",
+            
+            "achievements": [],
+            "category" : "Movies & Shows",
+            "tags": [
+                "First Watch",
+                "Reaction",
+                "Comedy"
+            ]
+        },
+        {
+            "name": "Penelope",
+            "thumbnail": 1,
+            "icon": 1,
+            "title": "C'est Vrai!",
+            "viewership": "69k",
+            
+            "achievements": [],
+            "category" : "Learning",
+            "tags": [
+                "French",
+                "Engagers",
+                "Join In"
+            ]
+        },
+        {
+            "name": "Nina",
+            "thumbnail": 1,
+            "icon": 2,
+            "title": "England vs Australia",
+            "viewership": "1",
+            
+            "achievements": [],
+            "category" : "Sports",
+            "tags": [
+                "Cricket",
+                "Analysis",
+                "Engagers"
+            ]
+        },
+        {
+            "name": "Bea",
+            "thumbnail": 1,
+            "icon": 3,
+            "title": "Singing My New Album",
+            "viewership": "10",
+            
+            "achievements": [],
+            "category" : "Music",
+            "tags": [
+                "Hip-Hop",
+                "New",
+                "Collab"
+            ]
+        }
+    ]
+}
