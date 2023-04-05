@@ -7,7 +7,7 @@ function HomeLayout () {
 
     return (
         <div class="py-24 ml-64">
-            <TagCarousel type="Top Picks" tag="beep"/>
+            <TagCarousel type="Top Picks" tag="Multi-Player"/>
             <CategoryList/>
             <TopCarousel type="Top Livestreams" category="Gaming"/>
             <CategoryCarousel type="More of Gaming" category="Gaming"/>
