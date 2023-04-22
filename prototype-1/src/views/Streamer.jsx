@@ -1,6 +1,6 @@
-import TopBar from "../components/TopBar";
-import SideBar from "../components/SideBar";
-import StreamerChannel from "../components/StreamerChannel";
+import TopBar from "../components/bars/TopBar";
+import SideBar from "../components/bars/SideBar";
+import StreamerChannel from "../components/streamer/StreamerChannel";
 
 function Streamer(){
     return (

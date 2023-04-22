@@ -10,10 +10,10 @@ import Option from './views/Option'
 import ViewerChoice from './views/ViewerChoice'
 import Streamer from './views/Streamer'
 import ViewerResult from "./views/ViewerResult";
-import QuestionOne from "./components/QuestionOne";
-import QuestionThree from "./components/QuestionThree";
-import QuestionTwo from "./components/QuestionTwo";
-import QuestionFour from "./components/QuestionFour";
+import QuestionOne from "./components/viewer/questions/QuestionOne";
+import QuestionThree from "./components/viewer/questions/QuestionThree";
+import QuestionTwo from "./components/viewer/questions/QuestionTwo";
+import QuestionFour from "./components/viewer/questions/QuestionFour";
 
 function App() {
   const router = createBrowserRouter([

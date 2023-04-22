@@ -1,6 +1,6 @@
-import TopBar from "../components/TopBar";
-import SideBar from "../components/SideBar";
-import HomeLayout from "../components/HomeLayout";
+import TopBar from "../components/bars/TopBar";
+import SideBar from "../components/bars/SideBar";
+import HomeLayout from "../components/home/HomeLayout";
 
 function Home(){
     return (

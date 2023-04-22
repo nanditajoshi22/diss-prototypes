@@ -1,6 +1,6 @@
-import TopBar from "../components/TopBar";
-import SideBar from "../components/SideBar";
-import Recommendations from "../components/Recommendations";
+import TopBar from "../components/bars/TopBar";
+import SideBar from "../components/bars/SideBar";
+import Recommendations from "../components/viewer/Recommendations";
 
 
 function ViewerResult () {

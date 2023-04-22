@@ -1,4 +1,4 @@
-import Welcome from "../components/Welcome";
+import Welcome from "../components/viewer/questions/Welcome";
 
 function ViewerChoice () {
     return (

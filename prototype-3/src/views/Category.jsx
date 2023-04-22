@@ -1,6 +1,6 @@
-import TopBar from "../components/TopBar";
-import SideBar from "../components/SideBar";
-import CategoryList from "../components/CategoryList";
+import TopBar from "../components/bars/TopBar";
+import SideBar from "../components/bars/SideBar";
+import CategoryList from "../components/category/CategoryList";
 
 function Category(props){
     const name = props.name;
